@@ -28,10 +28,8 @@ To run the Travel Planner AI, follow these steps:
 - Travel Planner AI is built using cutting-edge technologies to ensure a seamless user experience.
 - **Next.js 14:** Leveraging the latest advancements in Next.js for efficient web application development.
 - **Tailwind CSS with Shadcn-UI:** Utilizing Tailwind CSS with Shadcn-UI for responsive and visually stunning user interfaces.
-- **Convex Backend Platform:** Powering our backend infrastructure for robust performance and scalability.
 - **OpenAI APIs:** Harnessing the power of OpenAI's APIs for intelligent content generation and natural language processing.
 - **Clerk:** Providing secure authentication solutions to safeguard user accounts and data.
-- **Razorpay:** Facilitating seamless payment processing supporting wide range of payment methods.
 - **Resend:** For sending email invites using my custom domain.
 
 ## Contributing
