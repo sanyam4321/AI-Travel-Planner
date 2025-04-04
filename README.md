@@ -33,7 +33,7 @@ To run the Travel Planner AI, follow these steps:
 - **Resend:** For sending email invites using my custom domain.
 
 ## Contributing
- Contributions are welcome! If you'd like to contribute to Shoe Forge, please follow these steps:
+ Contributions are welcome! If you'd like to contribute, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
